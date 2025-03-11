@@ -1,0 +1,8 @@
+name: "bc"
+displayName: "Buckmind_mpuck"
+description: "Just dance with die"
+author: "ILDarchk"
+minGameVersion: "140"
+version: "1.0"
+hideBrowser: false
+hidden: true
